@@ -3,7 +3,7 @@
 My name is Saumya Ranjan Rout.I’m a Software Engineer by profession and currently based in Bangalore, India.My specializing is in building Single Page Application in Angular,Web Applications using Asp.Net Core, APIs and related Stack with clean architecture and optimized code.
 
 <br/>
-**Languages and Tools:**
+### Languages and Tools:
 
 * Web Technology:-Angular,Asp.net core api <br/>
 * Languages:-C# and Typscript <br/>
