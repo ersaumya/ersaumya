@@ -5,13 +5,13 @@ I am Saumya Ranjan Rout. I’m a Software Engineer by profession and currently b
 
 ### Languages and Tools
 
-* Web Technology:-Angular,.Net Core(Web Api/MVC),Microservices,EF Core,Bootstrap,Angular Material,HTML5,CSS3,Sql Server,Mongo Db <br/>
+* Web Technology:-Angular,.Net Core/.Net(Asp.Net Web Api/MVC),Microservices,Ocelot Api gateway,RabbitMQ,EF Core,Bootstrap,Angular Material,HTML5,CSS3,Sql Server,Mongo Db <br/>
 * Languages:-C# and Typescript <br/>
 * Tools:-Visual studio,Visual studio code,docker,postman <br/>
 <br/>
 
 -🔭 I’m currently working on Angular and .Net Core.<br/>
--🌱 Currently i am learning Microservices with .Net core.<br/>
+-🌱 Currently i am learning Ionic framework with angular.<br/>
 -📫 Connect with my social media handle [twitter](https://twitter.com/soumya1729).<br/>
 -😄 Pronouns: he/him/his
 
