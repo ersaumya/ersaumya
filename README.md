@@ -7,7 +7,7 @@ I am Saumya Ranjan Rout. I’m a Software Engineer by profession and currently b
 
 * Web Technology:-Angular,.Net Core/.Net(Asp.Net Web Api/MVC),Microservices,Ocelot Api gateway,RabbitMQ,EF Core,Bootstrap,Angular Material,HTML5,CSS3,Sql Server,Mongo Db <br/>
 * Languages:-C# and Typescript <br/>
-* Tools:-Visual studio,Visual studio code,docker,postman <br/>
+* Tools:-Visual studio,Visual studio code,Docker,Postman <br/>
 <br/>
 
 -🔭 I’m currently working on Angular and .Net Core.<br/>
