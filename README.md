@@ -11,7 +11,7 @@ I am Saumya Ranjan Rout. I’m a Senior Software Engineer by profession and curr
 <br/>
 
 -🔭 I’m currently working on Angular and .Net Core.<br/>
--🌱 Currently i am learning Blazor with web api and gRPC.<br/>
+-🌱 Currently i am learning React Js.<br/>
 -📫 Connect with my social media handle [twitter](https://twitter.com/soumya1729).<br/>
 -😄 Pronouns: he/him/his
 
