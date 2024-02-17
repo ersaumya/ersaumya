@@ -8,10 +8,11 @@ I am Saumya Ranjan Rout. I’m a Senior Software Engineer by profession and curr
 * Web Technology:-Angular,.Net 7,.Net Core/.Net(Asp.Net Web Api/MVC),Microservices,Ocelot Api gateway,RabbitMQ,EF Core,Bootstrap,Angular Material,HTML5,CSS3,Sql Server,Mongo Db <br/>
 * Languages:-C# and Typescript <br/>
 * Tools:-Visual studio,Visual studio code,Docker,Postman <br/>
+* Cloud:-Azure,Azure Devops <br/>
 <br/>
 
 -🔭 I’m currently working on Angular and .Net Core.<br/>
--🌱 Currently i am learning React Js.<br/>
+-🌱 Currently i am learning Azure.<br/>
 -📫 Connect with my social media handle [twitter](https://twitter.com/soumya1729).<br/>
 -😄 Pronouns: he/him/his
 
