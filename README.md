@@ -12,7 +12,7 @@ I’m a Software Engineer by profession and currently based in Bangalore,India. 
 <br/>
 
 -🔭 I’m currently working on Angular and .Net Core.<br/>
--🌱 Currently i am learning Azure.<br/>
+-🌱 Currently i am learning Azure for AZ 204 Microsoft Certification<br/>
 -📫 Connect with my social media handle [twitter](https://twitter.com/soumya1729).<br/>
 -😄 Pronouns: he/him/his
 
