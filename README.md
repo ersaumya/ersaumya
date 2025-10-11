@@ -11,8 +11,8 @@ I’m a Software Engineer by profession and currently based in Bangalore,India. 
 * Cloud:-Azure,Azure Devops <br/>
 <br/>
 
--🔭 I’m currently working on Angular and .Net Core.<br/>
--🌱 Currently i am learning Azure for AZ 204 Microsoft Certification<br/>
+-🔭 I’m currently working on Angular,Azure and .Net 9.<br/>
+-🌱 Currently i am learning Azure for AZ 204 Microsoft Certification and AI models used with .Net ecosystem.<br/>
 -📫 Connect with my social media handle [twitter](https://twitter.com/soumya1729).<br/>
 -😄 Pronouns: he/him/his
 
