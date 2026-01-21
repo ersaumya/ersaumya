@@ -5,13 +5,13 @@ I’m a Software Engineer by profession and currently based in Bangalore,India. 
 
 ### Languages and Tools
 
-* Web Technology:-Angular 6,8,12,16,18,21,.Net 7,.Net Core/.Net(Asp.Net Web Api/MVC),Microservices,Ocelot Api gateway,RabbitMQ,EF Core,Bootstrap,Angular Material,HTML5,CSS3,Sql Server,Mongo Db <br/>
+* Web Technology:-AI model integration,Angular 6,8,12,16,18,21,.Net 7,.Net Core/.Net(Asp.Net Web Api/MVC),Microservices,Ocelot Api gateway,RabbitMQ,EF Core,Bootstrap,Angular Material,HTML5,CSS3,Sql Server,Mongo Db <br/>
 * Languages:-C# and Typescript <br/>
 * Tools:-Visual studio,Visual studio code,Docker,Postman <br/>
 * Cloud:-Azure,Azure Devops <br/>
 <br/>
 
--🔭 I’m currently working on Angular,Azure and .Net 9.<br/>
+-🔭 I’m currently working on Gen AI,Angular,Azure and .Net 9.<br/>
 -🌱 Currently i am learning Azure for AZ 204 Microsoft Certification and AI models used with .Net ecosystem.<br/>
 -📫 Connect with my social media handle [twitter](https://twitter.com/soumya1729).<br/>
 -😄 Pronouns: he/him/his
